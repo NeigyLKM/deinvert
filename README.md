@@ -1,3 +1,8 @@
+#Количество копирований - 17
+#Количество веток - 1
+#Количество разработчиков - 1
+#Регулярность использования - 64
+
 # deinvert
 
 deinvert is a voice inversion scrambler and descrambler. It supports simple
